@@ -173,3 +173,30 @@ nav div ul{
         color: #666; 
         line-height: 1.5; 
     }
+    .second-brain-section{
+        padding: 100px 20px;
+    }
+    .scnd-brain-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 60px;
+        padding: 100px 20px;
+    }
+    .scnd-text{
+        max-width: 800px;
+        margin: 0;
+        padding: 0;
+    }
+    .solution-text{
+        color: #469165;
+        margin: 0;
+        padding: 0;
+    }
+    .small-para{
+        color: #627382;
+    }
+    .brain-header{
+        font-size: 3rem;
+    }
+    
